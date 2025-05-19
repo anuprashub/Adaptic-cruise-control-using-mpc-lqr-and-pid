@@ -71,28 +71,28 @@ With:
 
 ### MPC Response
 
-![MPC Case 1 Image](images/mpc_case1.png)
+![MPC Case 1 Image](pics/mpc_case1.png)
 
 <video width="600" controls>
-  <source src="animations/mpc_case1.avi" type="video/avi">
+  <source src="pics/mpc_animation_case1.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
 
 ### LQR Response
 
-![LQR Case 1 Image](images/lqr_case1.png)
+![LQR Case 1 Image](pics/lqr_case1.png)
 
 <video width="600" controls>
-  <source src="animations/lqr_case1.avi" type="video/avi">
+  <source src="pics/lqr_animation_case1.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
 
 ### PID Response
 
-![PID Case 1 Image](images/pid_case1.png)
+![PID Case 1 Image](pics/pid_case1.png)
 
 <video width="600" controls>
-  <source src="animations/pid_case1.avi" type="video/avi">
+  <source src="pics/pid_animation_case1.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
 
@@ -100,27 +100,27 @@ With:
 
 ### MPC Response
 
-![MPC Case 2 Image](images/mpc_case2.png)
+![MPC Case 2 Image](pics/mpc_case2.png)
 
 <video width="600" controls>
-  <source src="animations/mpc_case2.avi" type="video/avi">
+  <source src="pics/mpc_animation_case2.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
 
 ### LQR Response
 
-![LQR Case 2 Image](images/lqr_case2.png)
+![LQR Case 2 Image](pics/lqr_case2.png)
 
 <video width="600" controls>
-  <source src="animations/lqr_case2.avi" type="video/avi">
+  <source src="pics/lqr_animation_case2.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
 
 ### PID Response
 
-![PID Case 2 Image](images/pid_case2.png)
+![PID Case 2 Image](pics/pid_case2.png)
 
 <video width="600" controls>
-  <source src="animations/pid_case2.avi" type="video/avi">
+  <source src="pics/pid_animation_case2.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
