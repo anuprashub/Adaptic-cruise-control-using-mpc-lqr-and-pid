@@ -67,38 +67,60 @@ With:
 
 ## 🖼️ Visual Results
 
-MPC
+## Case 1: Oscillating Lead Vehicle Velocity
 
-- `mpc_case1.png`
-- `mpc_case2.png`
+### MPC Response
 
-LQR
+![MPC Case 1 Image](images/mpc_case1.png)
 
-- `lqr_case1.png`
-- `lqr_case2.png`
+<video width="600" controls>
+  <source src="animations/mpc_case1.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
 
-PID
+### LQR Response
 
-- `pid_case1.png`
-- `pid_case2.png`
+![LQR Case 1 Image](images/lqr_case1.png)
 
+<video width="600" controls>
+  <source src="animations/lqr_case1.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
 
-Animations showing vehicle responses over time can be found in the `./animations` directory:
-- `mpc_animation_case1.avi`
-- `lqr_animation_case1.avi`
-- `pid_animation_case1.avi`
+### PID Response
 
-- `mpc_animation_case2.avi`
-- `lqr_animation_case2.avi`
-- `pid_animation_case2.avi`
+![PID Case 1 Image](images/pid_case1.png)
 
-## 📎 Dependencies
+<video width="600" controls>
+  <source src="animations/pid_case1.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
 
-- MATLAB with MPC Toolbox
+## Case 2: Lead Vehicle Comes to a Stop
 
-## 📚 Author
+### MPC Response
 
-**Anuprash Sharma**  
+![MPC Case 2 Image](images/mpc_case2.png)
 
----
+<video width="600" controls>
+  <source src="animations/mpc_case2.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
 
+### LQR Response
+
+![LQR Case 2 Image](images/lqr_case2.png)
+
+<video width="600" controls>
+  <source src="animations/lqr_case2.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
+
+### PID Response
+
+![PID Case 2 Image](images/pid_case2.png)
+
+<video width="600" controls>
+  <source src="animations/pid_case2.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
